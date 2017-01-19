@@ -5,7 +5,7 @@
 // VGAController.v is a submodule within the top module used to generate the vertical and horizontal synch signals as well as X and Y pixel positions
 // VGAFrequency.v is a submodule within the top module used to generate a 108Mhz pixel clock frequency from a 50Mhz pixel clock frequency using the PLL
 
-// (USER/CODER Notes)
+// (USER/CODER Notes) 
 // Note: User should modify/write code in the VGAInterface.v file and not modify any code written in VGAController.v or VGAFrequency.v
 
 module VGAInterface(
