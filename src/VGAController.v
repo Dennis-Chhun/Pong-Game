@@ -1,5 +1,5 @@
 // This is a controller written for a VGA Monitor with resolution 1280 by 1024 with an refresh rate of 60 fps
-// VGA Controller use to generate signals for the monitor
+// VGA Controller use to generate signals for the monitor 
 module VGAController (PixelClock,
 							 inRed,
 							 inGreen,
