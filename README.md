@@ -6,6 +6,10 @@ Altera's DE2-115 Board can be purchased from:
 http://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&No=502
   - Note: Altera has been acquired by Intel as of December 28, 2015.
 
+Furthermore, Quartus Prime Lite will be used as a multiplatform design environment for the FPGA Board. The free software can be downloaded from: 
+
+https://www.altera.com/products/design-software/fpga-design/quartus-prime/download.html
+
 The main code files can be found in the "src" folder with VGAInterface.v being the top module.
 
 Main Goals for this project:
