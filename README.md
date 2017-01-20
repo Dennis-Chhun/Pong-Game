@@ -21,6 +21,6 @@ Project Features:
   - Push Buttons 0 and 1 are set up to move the left paddle up and down
   - Push Buttons 2 and 3 are set up to move the right paddle up and down
   - The paddles will move vertically but are now allowed to overlap the magenta borders
-  - The ball should always be moving diagonally on the screen - X and Y components for movement as well as following a finite state machine diagram for the ball shown in Figure 1 below
+  - The ball should always be moving diagonally on the screen using the X and Y axis for movement as well as following a finite state machine diagram for the ball 
   - The background of the game is set to black
 
